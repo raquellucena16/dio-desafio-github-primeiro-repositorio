@@ -17,8 +17,10 @@ Windows
 
 # Primeiros comandos com Git
 
-- git init:
-- ls: lista os arquivos
-- git add .: adiciona todos os arquivos ao commit LOCAL
-- git commit -m "título": cria commit
-- git push origin main: sobe o commit no github
+- criar repositório no github e copiar o link;
+- git clone: clonar o repositório a partir do link;
+- git init: inicializar;
+- ls: lista os arquivos;
+- git add .: adiciona todos os arquivos ao commit LOCAL;
+- git commit -m "título": cria commit;
+- git push origin main: sobe o commit no github.
